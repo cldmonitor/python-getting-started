@@ -1,6 +1,6 @@
 # Getting Started with Okteto and Python
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/okteto/python-getting-started)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/cldmonitor/python-getting-started)
 
 This example shows how to use Okteto to develop a Python Sample App directly in Kubernetes. The Python Sample App is deployed using Kubernetes manifests.
 
